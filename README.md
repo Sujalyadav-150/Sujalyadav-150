@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Enthusiast;Cyber+Security+Enthusiast;Python+Developer;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Data+Enthusiast;Cyber+Security+Enthusiast;Python+Developer;Always+Learning+New+Things;Building+Projects+That+Solve+Real+World+Problems" />
 </p>
 
 <p align="center">
@@ -26,27 +26,75 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering (2026)**
-🏫 **Lovely Professional University**
+```bash
+sujal@github:~$ ./whoami.sh
 
-💡 Passionate about building scalable web applications, exploring data, and learning modern security practices.
+🎓 B.Tech Computer Science & Engineering (2026)
+🏫 Lovely Professional University
 
-### 🚀 Currently
+💻 Passionate Full Stack Developer
+📊 Data Enthusiast
+🔐 Cyber Security Enthusiast
+🐍 Python Developer
 
-* 💻 Developing Full Stack Web Applications
-* 📊 Exploring Data Analytics & Data Visualization
-* 🔐 Learning Cyber Security & Ethical Hacking
-* 🐍 Building Python-Based Applications
-* 🌱 Improving SQL, Machine Learning & Cloud Skills
-* 🚀 Open to Full-Time Opportunities
+🌱 Currently Learning:
+• Advanced SQL
+• Machine Learning
+• Ethical Hacking
+• Cloud Computing
 
-### 💼 Areas of Interest
+🚀 Open to Full-Time Opportunities
 
-* 💻 Full Stack Development
-* 📊 Data Analytics
-* 🔐 Cyber Security
-* 🐍 Python Development
-* 🤖 Artificial Intelligence
-* ☁️ Cloud Computing
+⚡ "Turning ideas into real-world applications and data into actionable insights."
+```
 
-> **"Turning ideas into impactful applications and data into actionable insights."** 🚀
+---
+
+# 🛠️ Skills & Tools
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,mysql"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,bootstrap,tailwind,flask"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 💻 IDEs / Text Editors
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea"/>
+</p>
+
+### 🚀 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux"/>
+</p>
+
+### 💻 Workspace
+
+<p>
+<img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
