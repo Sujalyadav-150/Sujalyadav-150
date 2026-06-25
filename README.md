@@ -98,3 +98,81 @@ sujal@github:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+# 🛠️ Skills & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp,mysql,bash"/>
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,bootstrap,tailwind"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+### 📊 Data Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws"/>
+</p>
+
+---
+
+### 🔐 Cyber Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-5C2D91?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+</p>
+
+---
+
+### 💻 Workspace
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+</p>
