@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sujal Yadav</h1>
 
-<!--
-**Sujalyadav-150/Sujalyadav-150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Data Analyst | 💻 Full Stack Developer | 🐍 Python Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Full+Stack+Developer;Python+Developer;Power+BI+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (2026) - Lovely Professional University
+- 📊 Interested in Data Analytics & Business Intelligence
+- 💻 Full Stack Developer
+- 🐍 Python Programmer
+- 🌱 Currently learning Machine Learning & Advanced SQL
+- 🚀 Open to Full-Time Opportunities
