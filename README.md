@@ -26,29 +26,71 @@
 
 # 👨‍💻 About Me
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
 ```bash
-sujal@github:~$ ./whoami.sh
+sujal@github:~$ ./welcome.sh
 
 🎓 B.Tech Computer Science & Engineering (2026)
 🏫 Lovely Professional University
 
-💻 Passionate Full Stack Developer
+💻 Full Stack Developer
 📊 Data Enthusiast
 🔐 Cyber Security Enthusiast
 🐍 Python Developer
 
+🚀 Currently Working On:
+   • Full Stack Applications
+   • Data Analytics Projects
+   • Python Automation
+   • Cyber Security Labs
+
 🌱 Currently Learning:
-• Advanced SQL
-• Machine Learning
-• Ethical Hacking
-• Cloud Computing
+   • Machine Learning
+   • Cloud Computing
+   • Advanced SQL
+   • System Design
 
-🚀 Open to Full-Time Opportunities
+🎯 Goal:
+   Become a Software Engineer &
+   Data Analytics Professional.
 
-⚡ "Turning ideas into real-world applications and data into actionable insights."
+⚡ Fun Fact:
+   I love turning ideas into
+   real-world applications.
 ```
 
+</td>
+
+<td width="40%">
+
+<img align="center" alt="Coding"
+width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
+
+## 🚀 What I Do
+
+* 💻 Build scalable Full Stack Web Applications
+* 📊 Analyze data and create interactive dashboards
+* 🔐 Explore Cyber Security concepts & security tools
+* 🐍 Develop Python-based automation projects
+* 🌱 Continuously learn modern technologies
+* 🤝 Open to collaborating on impactful open-source projects
+
+> **"Code with passion. Learn continuously. Build solutions that make a difference."** 🚀
+
 
 # 🛠️ Skills & Tools
 
