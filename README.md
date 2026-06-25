@@ -26,70 +26,49 @@
 
 # 👨‍💻 About Me
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="60%">
+* 🎓 **B.Tech Computer Science & Engineering (2026)**
+* 🏫 **Lovely Professional University**
+* 💻 **Full Stack Developer**
+* 📊 **Data Enthusiast**
+* 🔐 **Cyber Security Enthusiast**
+* 🐍 **Python Developer**
 
-```bash
-sujal@github:~$ ./welcome.sh
+### 🚀 Currently Working On
 
-🎓 B.Tech Computer Science & Engineering (2026)
-🏫 Lovely Professional University
+* Full Stack Web Applications
+* Data Analytics Projects
+* Python Automation
+* Cyber Security Labs
 
-💻 Full Stack Developer
-📊 Data Enthusiast
-🔐 Cyber Security Enthusiast
-🐍 Python Developer
+### 🌱 Currently Learning
 
-🚀 Currently Working On:
-   • Full Stack Applications
-   • Data Analytics Projects
-   • Python Automation
-   • Cyber Security Labs
+* Machine Learning
+* Advanced SQL
+* Cloud Computing
+* System Design
 
-🌱 Currently Learning:
-   • Machine Learning
-   • Cloud Computing
-   • Advanced SQL
-   • System Design
+### 🎯 Career Goal
 
-🎯 Goal:
-   Become a Software Engineer &
-   Data Analytics Professional.
+Become a Software Engineer and Data Analytics Professional.
 
-⚡ Fun Fact:
-   I love turning ideas into
-   real-world applications.
-```
+> 💡 *"Turning ideas into real-world applications and data into actionable insights."*
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img align="center" alt="Coding"
-width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
-
 </tr>
 </table>
 
----
-
-## 🚀 What I Do
-
-* 💻 Build scalable Full Stack Web Applications
-* 📊 Analyze data and create interactive dashboards
-* 🔐 Explore Cyber Security concepts & security tools
-* 🐍 Develop Python-based automation projects
-* 🌱 Continuously learn modern technologies
-* 🤝 Open to collaborating on impactful open-source projects
-
-> **"Code with passion. Learn continuously. Build solutions that make a difference."** 🚀
 
 
 # 🛠️ Skills & Tools
