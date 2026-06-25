@@ -190,12 +190,12 @@ sujal@github:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/SUJAL1234" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -203,7 +203,7 @@ sujal@github:~$ ./whoami.sh
 ---
 
 <p align="center">
-✨ <b>Thanks for visiting my profile!</b> ✨ <br>
-If you like my work, don't forget to ⭐ my repositories.
+⭐ <b>If you like my projects, consider giving them a star!</b> ⭐
+<br><br>
+💡 <i>"Code. Learn. Build. Repeat."</i>
 </p>
-
